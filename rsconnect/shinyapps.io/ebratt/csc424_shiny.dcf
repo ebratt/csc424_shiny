@@ -1,0 +1,8 @@
+name: csc424_shiny
+account: ebratt
+server: shinyapps.io
+bundleId: 387718
+url: https://ebratt.shinyapps.io/csc424_shiny/
+when: 1457117292.14308
+asMultiple: FALSE
+asStatic: FALSE
